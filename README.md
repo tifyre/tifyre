@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![happy unicorn](https://github.com/tifyre/tifyre/blob/main/assets/unicorn-happy.gif)
+
 <!--
 **tifyre/tifyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
